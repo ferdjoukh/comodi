@@ -4,22 +4,22 @@
 
 A human readable graphical representation is also plotted. It easily shows the coverage of solutions’ space of a model set. Finally, some extra statistics are computed over the input folder (closest models, average distance).
 
-# Get it and use it
+## Get it and use it
 
 COMODI is free and it usage is simple. Download it (jar, all scripts, examples)
 
 Get Comodi here. This archive contains:
 
--COMODI.jar to compare two models (xmi or dot files).
--COMODI.sh to handle a folder of models.
--Matrix clustering script.
--R scripts (clustering, voronoi).
+* COMODI.jar to compare two models (xmi or dot files).
+* COMODI.sh to handle a folder of models.
+* Matrix clustering script.
+* R scripts (clustering, voronoi).
 
-# Examples
+## Examples
 
-Example models and meta-model [zip][zip]
+You can find also many examples here
 
-# Required
+## Required
 
-Linux, R software (+ tripack, tikzdevice packages)
+Linux (or mac are prefered), R software (+ tripack, tikzdevice packages)
 
