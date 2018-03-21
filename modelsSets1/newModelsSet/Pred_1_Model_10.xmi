@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleUML_MM:ClassModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:simpleUML_MM="http://simpleUML_MM.ecore">
+  <classifier xsi:type="simpleUML_MM:Class" name="-2" is_persistent="true">
+    <attrs type="#//@classifier.8" name="15"/>
+    <attrs type="#//@classifier.6" name="11"/>
+    <attrs type="#//@classifier.7" name="-16"/>
+    <attrs type="#//@classifier.6" name="-8" is_primary="true"/>
+    <attrs type="#//@classifier.7" name="14"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="-9">
+    <attrs type="#//@classifier.4" name="14"/>
+    <attrs type="#//@classifier.8" name="-7" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="11"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="10" is_persistent="true">
+    <attrs type="#//@classifier.5" name="11"/>
+    <attrs type="#//@classifier.7" name="10"/>
+    <attrs type="#//@classifier.7" name="8"/>
+    <attrs type="#//@classifier.7" name="7"/>
+    <attrs type="#//@classifier.5" name="4"/>
+    <attrs type="#//@classifier.4" name="-1"/>
+    <attrs type="#//@classifier.7" name="-9"/>
+    <attrs type="#//@classifier.8" name="14"/>
+    <attrs type="#//@classifier.4" name="-8" is_primary="true"/>
+    <attrs type="#//@classifier.4" name="13"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="8">
+    <attrs type="#//@classifier.8" name="-8" is_primary="true"/>
+    <attrs type="#//@classifier.4" name="14"/>
+    <attrs type="#//@classifier.4" name="12"/>
+    <attrs type="#//@classifier.6" name="11"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="0">
+    <attrs type="#//@classifier.7" name="9"/>
+    <attrs type="#//@classifier.8" name="-7" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="11"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="-4"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="-13"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="-15"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="5"/>
+  <association name="15" src="#//@classifier.3" dest="#//@classifier.2"/>
+  <association name="9" src="#//@classifier.0" dest="#//@classifier.1"/>
+  <association name="13" src="#//@classifier.1" dest="#//@classifier.0"/>
+  <association name="-4" src="#//@classifier.4" dest="#//@classifier.0"/>
+  <association name="-4" src="#//@classifier.1" dest="#//@classifier.0"/>
+</simpleUML_MM:ClassModel>

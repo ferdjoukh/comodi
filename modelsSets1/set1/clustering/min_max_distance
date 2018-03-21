@@ -1,0 +1,11 @@
+euclide
+Furthest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_3.xmi=0.302
+Closest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_4.xmi=0.089
+--
+manhattan
+Furthest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_3.xmi=0.394
+Closest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_7.xmi=0.125
+--
+levenshtein
+Furthest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_3.xmi=0.674
+Closest two models: Pred_1_Model_2.xmi vs. Pred_1_Model_4.xmi=0.557

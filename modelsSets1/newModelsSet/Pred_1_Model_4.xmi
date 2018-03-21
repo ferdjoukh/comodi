@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleUML_MM:ClassModel xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:simpleUML_MM="http://simpleUML_MM.ecore">
+  <classifier xsi:type="simpleUML_MM:Class" name="12" is_persistent="true">
+    <attrs type="#//@classifier.6" name="12"/>
+    <attrs type="#//@classifier.4" name="-7" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="10"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="7" is_persistent="true">
+    <attrs type="#//@classifier.7" name="13"/>
+    <attrs type="#//@classifier.4" name="-2" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="12"/>
+    <attrs type="#//@classifier.6" name="10"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="-1" is_persistent="true">
+    <attrs type="#//@classifier.4" name="7"/>
+    <attrs type="#//@classifier.6" name="-6"/>
+    <attrs type="#//@classifier.4" name="4" is_primary="true"/>
+    <attrs type="#//@classifier.4" name="2" is_primary="true"/>
+    <attrs type="#//@classifier.7" name="0" is_primary="true"/>
+    <attrs type="#//@classifier.3" name="-1" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="-2" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="11"/>
+    <attrs type="#//@classifier.8" name="10"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="14" is_persistent="true">
+    <attrs type="#//@classifier.8" name="12"/>
+    <attrs type="#//@classifier.6" name="-2" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="-5" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="-6" is_primary="true"/>
+    <attrs type="#//@classifier.6" name="10"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:Class" name="-16" is_persistent="true">
+    <attrs type="#//@classifier.8" name="6" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="5" is_primary="true"/>
+    <attrs type="#//@classifier.7" name="-7" is_primary="true"/>
+    <attrs type="#//@classifier.8" name="10"/>
+  </classifier>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="15"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="5"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="13"/>
+  <classifier xsi:type="simpleUML_MM:PrimitiveDataType" name="0"/>
+  <association name="15" src="#//@classifier.2" dest="#//@classifier.4"/>
+  <association name="-16" src="#//@classifier.3" dest="#//@classifier.4"/>
+  <association name="-16" src="#//@classifier.1" dest="#//@classifier.4"/>
+  <association name="9" src="#//@classifier.1" dest="#//@classifier.3"/>
+  <association name="13" src="#//@classifier.3" dest="#//@classifier.2"/>
+</simpleUML_MM:ClassModel>
